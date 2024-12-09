@@ -24,6 +24,7 @@
 
 ## 3. Code Block (코드 블록)
 > 작성한 코드를 정하거나 강조하고 싶은 부분을 나타낼 때 사용한다.
+
 > inline과 block으로 구분된다.
 `git remote add https://github.com/~/~`
 ```bash
